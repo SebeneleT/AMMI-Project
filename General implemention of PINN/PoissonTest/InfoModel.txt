@@ -1,0 +1,2 @@
+Nu_train,Nf_train,Nint_train,validation_size,train_time,L2_norm_test,rel_L2_norm,error_train,error_vars,error_pde
+2048,4096,0,0.0,0.4222381114959717,0.5006093,1.0022985,0.011985789984464645,0.00010324412141926587,0.00013333473179955035
